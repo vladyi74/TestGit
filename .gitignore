@@ -1,5 +1,2 @@
 # Log files
 *.log
-
-# ignore all files in the build/ directory
-build/
